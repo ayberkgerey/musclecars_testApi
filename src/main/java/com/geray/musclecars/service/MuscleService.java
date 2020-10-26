@@ -17,7 +17,8 @@ public class MuscleService {
         carList.add(new MuscleCar(3,"Chevrolet","Stingray","1972"));
         carList.add(new MuscleCar(4,"Plymouth","Satellite","1972"));
         carList.add(new MuscleCar(5,"Chevrolet","Camaro","1977"));
-        carList.add(new MuscleCar(5,"Plymouth","Roadrunner","1970"));
+        carList.add(new MuscleCar(6,"Plymouth","Roadrunner","1970"));
+        carList.add(new MuscleCar(7,"Chevrolet","Chevelle","1969"));
     }
 
 

@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class MusclecarsApplicationTests {
 
     @Test
-    void contextLoads() {
+    void wdup() {
+        System.out.println("Wdup");
     }
 
 }
